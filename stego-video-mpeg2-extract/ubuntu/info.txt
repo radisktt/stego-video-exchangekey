@@ -1,2 +1,0 @@
-message_len = 25
-address = 2
